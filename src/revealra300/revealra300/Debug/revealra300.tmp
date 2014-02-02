@@ -1,0 +1,49 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.52</VERSION>
+ <DEVICE>"ATmega32A"</DEVICE>
+ <WORKING_DIR>C:\Users\amki\revealra300radio\src\revealra300\revealra300\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.39.1005\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\amki\revealra300radio\src\revealra300\revealra300\revealra300.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.39.1005\avrassembler\Include\m32Adef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\amki\revealra300radio\src\revealra300\revealra300\Debug/revealra300.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>revealra300.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>revealra300.map</FILE>
+  <FILE>revealra300.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <begin><FILE>C:\Users\amki\revealra300radio\src\revealra300\revealra300\revealra300.asm</FILE><LINE>16</LINE></begin>
+  <main><FILE>C:\Users\amki\revealra300radio\src\revealra300\revealra300\revealra300.asm</FILE><LINE>92</LINE></main>
+  <freqtab><FILE>C:\Users\amki\revealra300radio\src\revealra300\revealra300\revealra300.asm</FILE><LINE>276</LINE></freqtab>
+  <mainloop><FILE>C:\Users\amki\revealra300radio\src\revealra300\revealra300\revealra300.asm</FILE><LINE>109</LINE></mainloop>
+  <init><FILE>C:\Users\amki\revealra300radio\src\revealra300\revealra300\revealra300.asm</FILE><LINE>123</LINE></init>
+  <vup><FILE>C:\Users\amki\revealra300radio\src\revealra300\revealra300\revealra300.asm</FILE><LINE>133</LINE></vup>
+  <vdn><FILE>C:\Users\amki\revealra300radio\src\revealra300\revealra300\revealra300.asm</FILE><LINE>146</LINE></vdn>
+  <carden><FILE>C:\Users\amki\revealra300radio\src\revealra300\revealra300\revealra300.asm</FILE><LINE>233</LINE></carden>
+  <pickfreq><FILE>C:\Users\amki\revealra300radio\src\revealra300\revealra300\revealra300.asm</FILE><LINE>257</LINE></pickfreq>
+  <sendfreq><FILE>C:\Users\amki\revealra300radio\src\revealra300\revealra300\revealra300.asm</FILE><LINE>159</LINE></sendfreq>
+  <sendstatic><FILE>C:\Users\amki\revealra300radio\src\revealra300\revealra300\revealra300.asm</FILE><LINE>191</LINE></sendstatic>
+  <lclock><FILE>C:\Users\amki\revealra300radio\src\revealra300\revealra300\revealra300.asm</FILE><LINE>249</LINE></lclock>
+  <wait><FILE>C:\Users\amki\revealra300radio\src\revealra300\revealra300\revealra300.asm</FILE><LINE>244</LINE></wait>
+  <sendfreq1><FILE>C:\Users\amki\revealra300radio\src\revealra300\revealra300\revealra300.asm</FILE><LINE>163</LINE></sendfreq1>
+  <sendfreq2><FILE>C:\Users\amki\revealra300radio\src\revealra300\revealra300\revealra300.asm</FILE><LINE>174</LINE></sendfreq2>
+  <reg0><FILE>C:\Users\amki\revealra300radio\src\revealra300\revealra300\revealra300.asm</FILE><LINE>210</LINE></reg0>
+  <reg1><FILE>C:\Users\amki\revealra300radio\src\revealra300\revealra300\revealra300.asm</FILE><LINE>219</LINE></reg1>
+  <sendfreqend><FILE>C:\Users\amki\revealra300radio\src\revealra300\revealra300\revealra300.asm</FILE><LINE>185</LINE></sendfreqend>
+  <sendstatic1><FILE>C:\Users\amki\revealra300radio\src\revealra300\revealra300\revealra300.asm</FILE><LINE>193</LINE></sendstatic1>
+  <sendstatic2><FILE>C:\Users\amki\revealra300radio\src\revealra300\revealra300\revealra300.asm</FILE><LINE>201</LINE></sendstatic2>
+  <freqend><FILE>C:\Users\amki\revealra300radio\src\revealra300\revealra300\revealra300.asm</FILE><LINE>287</LINE></freqend>
+  <comparehigh><FILE>C:\Users\amki\revealra300radio\src\revealra300\revealra300\revealra300.asm</FILE><LINE>271</LINE></comparehigh>
+  <dn><FILE>C:\Users\amki\revealra300radio\src\revealra300\revealra300\revealra300.asm</FILE><LINE>262</LINE></dn>
+  <restartz><FILE>C:\Users\amki\revealra300radio\src\revealra300\revealra300\revealra300.asm</FILE><LINE>265</LINE></restartz>
+ </LABELS>
+</ASSEMBLER_INFO>
