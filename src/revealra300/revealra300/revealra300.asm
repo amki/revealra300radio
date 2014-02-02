@@ -8,7 +8,7 @@
 ;| Language      : Assembler                                            |
 ;| Datum         :		                                                |
 ;| Version       :		                                                |
-;| Autor         :		                                                |
+;| Autors        : amki (amki@amki.eu) & Caradas (caradas@caradas.info) |
 ;+----------------------------------------------------------------------+
 ;include	""
 ;------------------------------------------------------------------------
